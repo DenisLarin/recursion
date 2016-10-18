@@ -18,7 +18,7 @@ public class Nechotnay14 {
                 nechent(number,++cout);
             }
             else{
-                System.out.println(number);
+                System.out.println("число: " + number);
                 nechent(number,++cout);
             }
         }
